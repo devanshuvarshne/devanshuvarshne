@@ -1,4 +1,4 @@
-
+<img alt="coding" width="100%" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <h1 align="center">Hi 👋, I'm Devanshu Varshney</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
